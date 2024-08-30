@@ -2,9 +2,9 @@ pandas==2.2.2
 numpy==2.1.0
 scikit-learn==1.5.1
 spacy==3.7.6
-sentence-transformers==3.0.1
+sentence-transformers==2.2.2  # Updated to match transformers version
 vaderSentiment==3.3.2
 afinn==0.1
-transformers==4.30.0
-torch==2.0.1
+transformers==4.34.0  # Updated to match sentence-transformers requirement
+torch==2.2.2  # Updated to an available version
 streamlit==1.38.0
