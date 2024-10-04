@@ -1,4 +1,5 @@
 pandas==2.2.2
+openpyxl
 numpy==2.0.2
 scikit-learn==1.5.1
 spacy==3.8.2
