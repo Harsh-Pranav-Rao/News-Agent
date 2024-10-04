@@ -2,6 +2,7 @@ pandas==2.2.2
 numpy==2.0.2
 scikit-learn==1.5.1
 spacy==3.8.2
+en-core-web-trf @ https://github.com/explosion/spacy-models/releases/download/en_core_web_trf-3.7.3/en_core_web_trf-3.7.3.tar.gz
 sentence-transformers==3.0.1
 vaderSentiment==3.3.2
 afinn==0.1
